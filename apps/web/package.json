@@ -24,5 +24,6 @@
     "@types/react-dom": "19.1.1",
     "eslint": "^9.30.0",
     "typescript": "5.8.2"
+  
   }
 }
